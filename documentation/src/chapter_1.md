@@ -1,9 +1,13 @@
-## Chapter 1
+## Section 1: Introduction
+
 
 Finding 
 
 \\[ \mu = \frac{1}{N} \sum_{i=0} x_i \\]
 
+
+
+### Background
 
 ```rust,noplayground
  fn main() {
@@ -13,4 +17,11 @@ Finding
     println!("{}", x + y);
  }
 ```
+
+
+### Contributions
+
+
+
+
 
