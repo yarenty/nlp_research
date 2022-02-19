@@ -12,3 +12,20 @@ Preparation for paper submission...
 
 ## Why Rust ?
 For training purposes  ;-)
+
+
+## Documentation
+
+To install:
+```shell
+cargo install mdbook
+cargo install mdbook-pdf
+```
+
+To build:
+```shell
+mdbook build  
+```
+Output: **book/pdf/output.pdf**
+
+_Note: SUMMARY.md is ... special_
