@@ -1,0 +1,21 @@
+[book]
+authors = ["Jaroslaw Nowosad"]
+language = "en"
+multilingual = false
+src = "src"
+title = "NLP - finding innovations in patents and social media"
+
+
+[output.html]
+mathjax-support = true
+
+[output.pdf]
+mathjax-support = true
+
+
+#[output.latex]
+#latex    = true  # default = true
+#pdf      = true  # default = false
+#markdown = true  # default = false
+
+
